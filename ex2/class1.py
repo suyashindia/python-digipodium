@@ -1,0 +1,2 @@
+class mynewclass:
+    '''this is  
